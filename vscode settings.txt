@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.activityBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#282c34",
+        "editorGroupHeader.tabsBackground": "#282c34",
+        "titleBar.activeBackground": "#282c34",
+        "tab.inactiveBackground": "#282c34",
+        "tab.border": "#282c34"
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\bash.exe",
+    "workbench.iconTheme": "vscode-icon-theme",
+    "extensions.ignoreRecommendations": true,
+    "workbench.startupEditor": "newUntitledFile"
+}
