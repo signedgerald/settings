@@ -1,2 +1,2 @@
 # settings
-Settings for VSCode and other programs
+personal settings/scripts
